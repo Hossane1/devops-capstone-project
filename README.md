@@ -1,4 +1,5 @@
 # DevOps Capstone Template
+![Build Status](https://github.com/Hossane1/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 ![Build Status](https://github.com/Hossane1/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
